@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Header from './components/Header'
-import CharacterCard from './components/CharacterCard'
+
+
 import './App.css'
 
 let counter = 0;
